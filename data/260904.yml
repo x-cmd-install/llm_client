@@ -7,7 +7,7 @@ about:
   head: e6eab60
   archived: false
   latestVersion: 
-  collectedAt: 2026-09-04T19:27:32Z
+  collectedAt: 2026-09-04T21:04:59Z
 timeline:
   created: 2023-12-14
   lastCommit: 2025-08-06
@@ -81,5 +81,33 @@ total:
   openIssue: 1
   commit: 71
 ---
+path: /home/runner/.x-repo/github.com/ShelbyJenkins/llm_client
+collectedAt: 2026-09-04T21:05:00Z
+loc:
+  Json:
+    code: 1456276
+    comments: 0
+    blanks: 0
+    files: 81
+  Rust:
+    code: 15096
+    comments: 930
+    blanks: 2614
+    files: 107
+  Toml:
+    code: 152
+    comments: 1
+    blanks: 14
+    files: 6
+  Markdown:
+    code: 0
+    comments: 226
+    blanks: 63
+    files: 5
+total:
+  code: 1471679
+  comments: 3744
+  blanks: 3184
+  files: 199
 ---
 
